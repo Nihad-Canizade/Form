@@ -1,0 +1,26 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+}
+
+span{
+    margin-left: 1rem;
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+}
+
+button{
+    margin-top: 1rem;
+}
+
+input{
+    padding: 10px 20px 10px 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(187, 187, 187);
+}
